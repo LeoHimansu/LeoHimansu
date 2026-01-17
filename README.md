@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Binder and I'm a tech student</p>
+<p align="left">My name is Himanshu and I'm a tech student</p>
 
 ###
 
